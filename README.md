@@ -1,6 +1,6 @@
 # Power_BI_Dashboard_Project
 
-## Project Objective
+## Project Summary:
 
 Created an interactive dashboard to track and analyze online sales data.
 
